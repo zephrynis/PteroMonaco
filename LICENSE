@@ -1,0 +1,42 @@
+PteroMonaco Addon License (Non-Redistribution)
+
+Copyright (c) 2025 zephrynis
+
+This license grants you certain limited rights to use the PteroMonaco addon (the "Software"). By using the Software you agree to the terms below.
+
+1. Grant of License
+	- Subject to the restrictions in Section 2, the copyright holder hereby grants you a non-exclusive, non-transferable, revocable license to:
+	  a) Use the Software for any purpose, including commercial use (for example, operation by a hosting company) and in a production environment.
+	  b) Make and keep private copies of the Software for backup or archival purposes.
+	  c) Modify the Software for your internal use (including adapting, debugging, or integrating it into your systems) provided such modifications are not distributed to any third party.
+
+2. Redistribution and Distribution Restrictions
+	- You may NOT distribute, publish, sublicense, sell, rent, lease, transfer, or otherwise make available the Software, any portion of the Software, the Software's source code, or any modified versions or installation packages (collectively, "Redistribution") to any third party in any form, whether for consideration or free of charge.
+	- The following are expressly prohibited without a separate, written agreement with the copyright holder:
+	  a) Uploading the Software (original or modified) or installation packages to public or private file hosting, code hosting services (e.g., GitHub, GitLab, Bitbucket), or any distribution channels.
+	  b) Packaging the Software (original or modified) into an installer, archive, image, or similar artifact and providing that artifact to any third party.
+	- Operating the Software to provide services to third parties (for example, a hosting provider running the addon on its servers so that customers experience its functionality) is allowed, provided no Redistribution of the Software or its installation files/source code occurs.
+
+3. Derivative Works and Internal Use
+	- You may create derivative works or modifications of the Software for your internal use only. Any derivative works remain subject to Section 2 and may not be distributed to third parties without a separate license.
+
+4. Ownership
+	- The Software is licensed, not sold. The copyright holder retains all ownership and intellectual property rights in the Software and any copies, derivatives, or portions thereof.
+
+5. Termination
+	- This license is effective until terminated. The license automatically terminates if you fail to comply with any term of this license. Upon termination you must cease all use of the Software and destroy or permanently delete all copies, installations, and backups of the Software in your possession or control, including any modified versions.
+
+6. Disclaimer of Warranty
+	- The Software is provided "AS IS", without warranty of any kind. To the maximum extent permitted by applicable law, the copyright holder disclaims all warranties, either express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+7. Limitation of Liability
+	- In no event will the copyright holder be liable for any incidental, special, indirect, consequential, punitive, or exemplary damages arising out of the use or inability to use the Software, even if advised of the possibility of such damages.
+
+8. Remedies and Injunctive Relief
+	- Because unauthorized distribution of the Software would cause irreparable harm, the copyright holder may seek injunctive or equitable relief in addition to any other remedies available at law or in equity.
+
+9. Contact for Redistribution or Commercial Distribution Rights
+	- If you require the right to redistribute the Software (original or modified) or to obtain a redistributable license, contact the copyright holder (repository owner: "zephrynis") to negotiate a separate written agreement.
+
+10. Governing Law
+	- This license shall be governed by and construed in accordance with the laws of the jurisdiction of the copyright holder, without regard to conflict of law principles.

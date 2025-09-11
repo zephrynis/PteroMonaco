@@ -1,42 +1,90 @@
-PteroMonaco Addon License (Non-Redistribution)
+PteroMonaco Addon Proprietary License (Non-Redistribution) – Version 1.1
 
 Copyright (c) 2025 zephrynis
 
-This license grants you certain limited rights to use the PteroMonaco addon (the "Software"). By using the Software you agree to the terms below.
+IMPORTANT: THIS SOFTWARE IS PROPRIETARY AND NOT OPEN SOURCE. BY INSTALLING, COPYING, ACCESSING, OR USING THE SOFTWARE, YOU ACCEPT THESE TERMS. IF YOU DO NOT AGREE, DO NOT USE THE SOFTWARE.
 
-1. Grant of License
-	- Subject to the restrictions in Section 2, the copyright holder hereby grants you a non-exclusive, non-transferable, revocable license to:
-	  a) Use the Software for any purpose, including commercial use (for example, operation by a hosting company) and in a production environment.
-	  b) Make and keep private copies of the Software for backup or archival purposes.
-	  c) Modify the Software for your internal use (including adapting, debugging, or integrating it into your systems) provided such modifications are not distributed to any third party.
+1. Definitions
+	1.1 "Software" means the PteroMonaco addon and all accompanying files, updates, patches, enhancements, configurations, and documentation provided by Licensor.
+	1.2 "Licensor" means the copyright holder identified above.
+	1.3 "You" or "Licensee" means the individual or legal entity exercising rights under this License and the employees/contractors acting on its behalf.
+	1.4 "Internal Use" means use solely for Your own business operations, by You and Your authorized personnel, without providing any copy (source, object, packaged, or derivative) of the Software to a third party.
+	1.5 "Redistribution" means any act of making the Software, any portion of it, or any Derivative Work available (directly or indirectly) to a third party in any form (including source code, object code, binaries, containers, images, archives, installers, or repository access), whether free or for a fee.
+	1.6 "Derivative Work" means any modification, adaptation, translation, extension, integration, or other work based upon or incorporating the Software.
+	1.7 "Hosted Access" means remote interaction with functionality operated by You where no code, binaries, installation packages, or direct file/system-level access to the Software is provided to the third party.
 
-2. Redistribution and Distribution Restrictions
-	- You may NOT distribute, publish, sublicense, sell, rent, lease, transfer, or otherwise make available the Software, any portion of the Software, the Software's source code, or any modified versions or installation packages (collectively, "Redistribution") to any third party in any form, whether for consideration or free of charge.
-	- The following are expressly prohibited without a separate, written agreement with the copyright holder:
-	  a) Uploading the Software (original or modified) or installation packages to public or private file hosting, code hosting services (e.g., GitHub, GitLab, Bitbucket), or any distribution channels.
-	  b) Packaging the Software (original or modified) into an installer, archive, image, or similar artifact and providing that artifact to any third party.
-	- Operating the Software to provide services to third parties (for example, a hosting provider running the addon on its servers so that customers experience its functionality) is allowed, provided no Redistribution of the Software or its installation files/source code occurs.
+2. Grant of License
+	Subject to Your continued compliance with this License:
+	a) You are granted a limited, non-exclusive, non-transferable, revocable license for Internal Use of the Software (including production use and commercial operation for Your own services) and to create Derivative Works for Internal Use.
+	b) You may make a reasonable number of backup and archival copies (kept strictly internal and protected from unauthorized access).
+	c) You may configure, adapt, and integrate the Software internally. All Derivative Works remain subject to Section 3.
 
-3. Derivative Works and Internal Use
-	- You may create derivative works or modifications of the Software for your internal use only. Any derivative works remain subject to Section 2 and may not be distributed to third parties without a separate license.
+3. Restrictions; No Redistribution
+	3.1 NO REDISTRIBUTION: You shall not engage in Redistribution without a separate written agreement signed by Licensor.
+	3.2 Prohibited (without separate license):
+			i. Publishing the Software or any Derivative Work (original or modified) to public or private code or file hosting platforms.
+			ii. Providing installers, archives, images, containers, or deployment packages to third parties.
+			iii. Sublicensing, leasing, renting, selling, transferring, or otherwise conveying any rights (except that reasonable internal contractor access under confidentiality is permitted).
+	3.3 Permitted Hosted Access: Allowing third parties to interact with functionality powered by the Software exclusively via network interfaces (e.g., web UI, API) where they receive no copy of Software or derivative code does NOT constitute Redistribution.
+	3.4 Derivative Works must: (a) remain internal; (b) retain all proprietary notices of Licensor in original files; (c) clearly mark modified sections; (d) not remove or alter this License notice.
+	3.5 No Circumvention: You shall not obfuscate or compartmentalize Distribution to evade the Redistribution prohibition.
 
-4. Ownership
-	- The Software is licensed, not sold. The copyright holder retains all ownership and intellectual property rights in the Software and any copies, derivatives, or portions thereof.
+4. Ownership; No Implied Rights
+	The Software and all intellectual property rights therein remain the exclusive property of Licensor. Except for the limited license expressly stated, no rights (including any patent, trademark, or trade secret rights) are granted by implication, estoppel, or otherwise. All rights not expressly granted are reserved.
 
-5. Termination
-	- This license is effective until terminated. The license automatically terminates if you fail to comply with any term of this license. Upon termination you must cease all use of the Software and destroy or permanently delete all copies, installations, and backups of the Software in your possession or control, including any modified versions.
+5. Updates and Patches
+	Any update, fix, patch, or enhancement provided by Licensor is deemed part of the Software and governed by this License unless expressly stated otherwise in writing.
 
-6. Disclaimer of Warranty
-	- The Software is provided "AS IS", without warranty of any kind. To the maximum extent permitted by applicable law, the copyright holder disclaims all warranties, either express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+6. Feedback
+	You may (but are not required to) provide suggestions or feedback. Licensor may use such feedback without restriction and without obligation.
 
-7. Limitation of Liability
-	- In no event will the copyright holder be liable for any incidental, special, indirect, consequential, punitive, or exemplary damages arising out of the use or inability to use the Software, even if advised of the possibility of such damages.
+7. Term and Termination
+	7.1 Term: This License remains effective until terminated.
+	7.2 Breach Cure: If You breach a remediable provision, Licensor may provide written notice (including electronic). If You fail to cure within 15 days, this License terminates automatically at the end of that period. Material or intentional breaches, or breaches involving Redistribution, may result in immediate termination.
+	7.3 Post-Termination: Upon termination, You must cease all use, and destroy or permanently delete all copies and Derivative Works (except internal records strictly necessary for legal compliance), and certify destruction upon request.
+	7.4 Survival: Sections 3–4, 6–9, 11–16 survive termination.
 
-8. Remedies and Injunctive Relief
-	- Because unauthorized distribution of the Software would cause irreparable harm, the copyright holder may seek injunctive or equitable relief in addition to any other remedies available at law or in equity.
+8. Revocability
+	Licensor reserves the right to revoke this License for unremedied breach or to prevent ongoing infringement or misuse. Licensor will not revoke purely for convenience without providing either (a) a replacement license permitting continued internal use of then-current version, or (b) at least 60 days' notice (not required in case of breach or legal risk).
 
-9. Contact for Redistribution or Commercial Distribution Rights
-	- If you require the right to redistribute the Software (original or modified) or to obtain a redistributable license, contact the copyright holder (repository owner: "zephrynis") to negotiate a separate written agreement.
+9. Confidentiality (Limited)
+	The Software (including structure, organization, and code) is Licensor confidential information. You must protect it using at least reasonable care and may disclose it only to personnel with a need to know under confidentiality obligations no less protective.
 
-10. Governing Law
-	- This license shall be governed by and construed in accordance with the laws of the jurisdiction of the copyright holder, without regard to conflict of law principles.
+10. Disclaimer of Warranties
+	THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, RELIABILITY, OR THAT THE SOFTWARE WILL BE UNINTERRUPTED, SECURE, OR ERROR-FREE.
+
+11. Limitation of Liability
+	TO THE MAXIMUM EXTENT PERMITTED BY LAW: (a) LICENSOR WILL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES; (b) LICENSOR'S TOTAL AGGREGATE LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE SHALL NOT EXCEED USD $100 (OR, IF GREATER, THE AMOUNT YOU ACTUALLY PAID LICENSOR FOR THE SOFTWARE, IF ANY). THESE LIMITATIONS APPLY EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND REGARDLESS OF THEORY OF LIABILITY.
+
+12. Injunctive Relief
+	Unauthorized Redistribution or breach of Sections 3, 4, 9 would cause irreparable harm for which monetary damages are inadequate. Licensor may seek immediate injunctive or equitable relief without posting bond (unless required by law) in addition to other remedies.
+
+13. Export; Compliance
+	You shall comply with all applicable export control, sanctions, and technology laws. You represent You are not located in, under control of, or a national or resident of any jurisdiction embargoed by applicable law.
+
+14. Assignment
+	You may not assign or transfer this License (by merger, acquisition, operation of law, or otherwise) without Licensor's prior written consent; any unauthorized assignment is void. Licensor may assign without restriction.
+
+15. Severability; Waiver
+	If any provision is held unenforceable, it will be modified to the minimum extent necessary to be enforceable while preserving intent; the remainder remains in effect. Failure to enforce any provision is not a waiver.
+
+16. Entire Agreement; Amendments
+	This License constitutes the entire agreement concerning the Software and supersedes all prior or contemporaneous understandings. Amendments must be in a signed writing (electronic signature acceptable). Purchase orders or other documents do not modify or add terms unless expressly agreed in writing by Licensor.
+
+17. Governing Law; Venue
+	This License is governed by the laws of the jurisdiction of Licensor (excluding conflict rules). Exclusive venue for disputes shall be the courts of that jurisdiction, and You consent to personal jurisdiction there (without limiting Licensor's right to seek relief elsewhere for injunctive or enforcement purposes).
+
+18. Notices; Contact
+	For redistribution or extended rights inquiries contact: zephrynis (via repository profile or designated contact channel). Notices to You may be provided via posting in the repository or electronic communication.
+
+19. Interpretation
+	Headings are for convenience only. "Including" means "including without limitation". English language controls.
+
+20. No Open Source Representation
+	The Software is proprietary and is not licensed under any open source or open collaboration license. Do not post it publicly.
+
+ACKNOWLEDGMENT: YOU REPRESENT THAT YOU HAVE READ AND UNDERSTAND THIS LICENSE AND AGREE TO BE BOUND BY ITS TERMS.
+
+END OF TERMS
+
+DISCLAIMER (NON-LEGAL ADVICE): This document is provided as-is and may require review by qualified counsel for Your specific jurisdiction or use case.
